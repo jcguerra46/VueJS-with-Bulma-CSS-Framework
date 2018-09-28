@@ -22,6 +22,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Bulma CSS Framework
 
-[Web](https://bulma.io/).
+Official [Web](https://bulma.io/).
 
-[Documentation](https://bulma.io/documentation/).
+Bulma [Documentation](https://bulma.io/documentation/).
